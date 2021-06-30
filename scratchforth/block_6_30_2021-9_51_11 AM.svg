@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:html="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1"><style>
+    .blocklyText {
+        fill: #fff;
+        font-family: "Helvetica Neue", Helvetica, sans-serif;
+        font-size: 12pt;
+        font-weight: 500;
+    }
+    .blocklyNonEditableText>text, .blocklyEditableText>text {
+        fill: #575E75;
+    }
+    .blocklyDropdownText {
+        fill: #fff !important;
+    }
+    </style><g class="blocklyBlockCanvas" transform="translate(-71.25925925925924,-171.7777777777778) "><g data-id="7HN$BHSBqD+^mZ%od~ha" class="blocklyDraggable" data-shapes="stack" data-category="looks" transform="translate(71.25925925925924,189.7777777777778)"><path class="blocklyPath blocklyBlockBackground" stroke="#774DCB" fill="#9966FF" fill-opacity="1" d="m 0,4 A 4,4 0 0,1 4,0 H 12 c 2,0 3,1 4,2 l 4,4 c 1,1 2,2 4,2 h 12 c 2,0 3,-1 4,-2 l 4,-4 c 1,-1 2,-2 4,-2 H 264.2568893432617 a 4,4 0 0,1 4,4 v 40  a 4,4 0 0,1 -4,4 H 48   c -2,0 -3,1 -4,2 l -4,4 c -1,1 -2,2 -4,2 h -12 c -2,0 -3,-1 -4,-2 l -4,-4 c -1,-1 -2,-2 -4,-2 H 4 a 4,4 0 0,1 -4,-4 z"></path><g data-id="aa*6sw=MVWf=I!a(+Tg2" data-argument-type="text" data-shapes="argument round" transform="translate(48,8)"><path class="blocklyPath blocklyBlockBackground" stroke="#774DCB" fill="#FFFFFF" fill-opacity="1" d="m 0,0 m 16,0 H 48.87555694580078 a 16 16 0 0 1 0 32 H 16 a 16 16 0 0 1 0 -32 z"></path><g class="blocklyEditableText" transform="translate(8, 0) " style="cursor: text;"><text class="blocklyText" x="24.43777847290039" y="18" dominant-baseline="middle" dy="0" text-anchor="middle">Hello!</text></g></g><g data-id="RxWG{[;z/*SOzfrW,C]e" data-argument-type="text number" data-shapes="argument round" transform="translate(149.4088897705078,8)"><path class="blocklyPath blocklyBlockBackground" stroke="#774DCB" fill="#FFFFFF" fill-opacity="1" d="m 0,0 m 16,0 H 24 a 16 16 0 0 1 0 32 H 16 a 16 16 0 0 1 0 -32 z"></path><g class="blocklyEditableText" transform="translate(8, 0) " style="cursor: text;"><text class="blocklyText" x="12" y="18" dominant-baseline="middle" dy="0" text-anchor="middle">5</text></g></g><text class="blocklyText" y="2" text-anchor="middle" dominant-baseline="middle" dy="0" x="12.98814868927002" transform="translate(8, 24) ">say</text><path class="blocklyPath" style="visibility: hidden" d="" fill="#774DCB"></path><text class="blocklyText" y="2" text-anchor="middle" dominant-baseline="middle" dy="0" x="10.266666412353516" transform="translate(120.87555694580078, 24) ">for</text><path class="blocklyPath" style="visibility: hidden" d="" fill="#774DCB"></path><text class="blocklyText" y="2" text-anchor="middle" dominant-baseline="middle" dy="0" x="31.423999786376953" transform="translate(197.4088897705078, 24) ">seconds</text></g></g></svg>
