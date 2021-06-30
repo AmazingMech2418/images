@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:html="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1"><style>
+    .blocklyText {
+        fill: #fff;
+        font-family: "Helvetica Neue", Helvetica, sans-serif;
+        font-size: 12pt;
+        font-weight: 500;
+    }
+    .blocklyNonEditableText>text, .blocklyEditableText>text {
+        fill: #575E75;
+    }
+    .blocklyDropdownText {
+        fill: #fff !important;
+    }
+    </style><g class="blocklyBlockCanvas" transform="translate(38.37037037037038,-343.77777777778505) "><g data-id="Su68*6A1JJWXh(QPud;]" class="blocklyDraggable blocklySelected" data-shapes="stack" data-category="sounds" transform="translate(-38.37037037037038,361.77777777778505)"><path class="blocklyPath blocklyBlockBackground" stroke="#BD42BD" fill="#CF63CF" fill-opacity="1" d="m 0,4 A 4,4 0 0,1 4,0 H 12 c 2,0 3,1 4,2 l 4,4 c 1,1 2,2 4,2 h 12 c 2,0 3,-1 4,-2 l 4,-4 c 1,-1 2,-2 4,-2 H 201.62874221801758 a 4,4 0 0,1 4,4 v 40  a 4,4 0 0,1 -4,4 H 48   c -2,0 -3,1 -4,2 l -4,4 c -1,1 -2,2 -4,2 h -12 c -2,0 -3,-1 -4,-2 l -4,-4 c -1,-1 -2,-2 -4,-2 H 4 a 4,4 0 0,1 -4,-4 z"></path><g data-id="lCP+}xwQccZY+3U1]+Q}" data-argument-type="text number" data-shapes="argument round" transform="translate(151.16799926757812,8)"><path class="blocklyPath blocklyBlockBackground" stroke="#BD42BD" fill="#FFFFFF" fill-opacity="1" d="m 0,0 m 16,0 H 30.460742950439453 a 16 16 0 0 1 0 32 H 16 a 16 16 0 0 1 0 -32 z"></path><g class="blocklyEditableText" transform="translate(8, 0) " style="cursor: text;"><text class="blocklyText" x="15.230371475219727" y="18" dominant-baseline="middle" dy="0" text-anchor="middle">-20</text></g></g><text class="blocklyText" y="2" text-anchor="middle" dominant-baseline="middle" dy="0" x="67.58399963378906" transform="translate(8, 24) ">change volume by</text><path class="blocklyPath" style="visibility: hidden" d="" fill="#BD42BD"></path></g></g></svg>

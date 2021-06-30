@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:html="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1"><style>
+    .blocklyText {
+        fill: #fff;
+        font-family: "Helvetica Neue", Helvetica, sans-serif;
+        font-size: 12pt;
+        font-weight: 500;
+    }
+    .blocklyNonEditableText>text, .blocklyEditableText>text {
+        fill: #575E75;
+    }
+    .blocklyDropdownText {
+        fill: #fff !important;
+    }
+    </style><g class="blocklyBlockCanvas" transform="translate(-366.0740740740736,-301.5555555555573) "><g data-id="rbX}ePAT3Gk!u/i^?%}6" class="blocklyDraggable blocklySelected" data-shapes="stack" data-category="looks" transform="translate(366.0740740740736,319.5555555555573)"><path class="blocklyPath blocklyBlockBackground" stroke="#774DCB" fill="#9966FF" fill-opacity="1" d="m 0,4 A 4,4 0 0,1 4,0 H 12 c 2,0 3,1 4,2 l 4,4 c 1,1 2,2 4,2 h 12 c 2,0 3,-1 4,-2 l 4,-4 c 1,-1 2,-2 4,-2 H 172.62369537353516 a 4,4 0 0,1 4,4 v 40  a 4,4 0 0,1 -4,4 H 48   c -2,0 -3,1 -4,2 l -4,4 c -1,1 -2,2 -4,2 h -12 c -2,0 -3,-1 -4,-2 l -4,-4 c -1,-1 -2,-2 -4,-2 H 4 a 4,4 0 0,1 -4,-4 z"></path><g data-id="AVFNIqv|edgJ`rrPEoNc" data-argument-type="text number" data-shapes="argument round" transform="translate(128.62369537353516,8)"><path class="blocklyPath blocklyBlockBackground" stroke="#774DCB" fill="#FFFFFF" fill-opacity="1" d="m 0,0 m 16,0 H 24 a 16 16 0 0 1 0 32 H 16 a 16 16 0 0 1 0 -32 z"></path><g class="blocklyEditableText" transform="translate(8, 0) " style="cursor: text;"><text class="blocklyText" x="12" y="18" dominant-baseline="middle" dy="0" text-anchor="middle">50</text></g></g><text class="blocklyText" y="2" text-anchor="middle" dominant-baseline="middle" dy="0" x="56.31184768676758" transform="translate(8, 24) ">change size by</text><path class="blocklyPath" style="visibility: hidden" d="" fill="#774DCB"></path></g></g></svg>

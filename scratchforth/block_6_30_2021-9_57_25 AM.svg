@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:html="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1"><style>
+    .blocklyText {
+        fill: #fff;
+        font-family: "Helvetica Neue", Helvetica, sans-serif;
+        font-size: 12pt;
+        font-weight: 500;
+    }
+    .blocklyNonEditableText>text, .blocklyEditableText>text {
+        fill: #575E75;
+    }
+    .blocklyDropdownText {
+        fill: #fff !important;
+    }
+    </style><g class="blocklyBlockCanvas" transform="translate(-115.81481481481501,-279.7777777777848) "><g data-id="0*3Sg]PsnY6C-piJ;^Kf" class="blocklyDraggable blocklySelected" data-shapes="reporter round" data-category="sounds" transform="translate(115.81481481481501,297.7777777777848)"><path class="blocklyPath blocklyBlockBackground" stroke="#BD42BD" fill="#CF63CF" fill-opacity="1" d="m 0,0 m 20,0 H 57.64799880981445 a 20 20 0 0 1 0 40 H 20 a 20 20 0 0 1 0 -40 z"></path><text class="blocklyText" y="2" text-anchor="middle" dominant-baseline="middle" dy="0" x="26.823999404907227" transform="translate(12, 20) ">volume</text></g></g></svg>
